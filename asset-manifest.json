@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5e0f1e6.css",
+    "main.js": "/static/js/main.ee0a59fb.js",
+    "static/media/Ellipse_157.png": "/static/media/Ellipse_157.f89b464a225042f9b922.png",
+    "static/media/EllipseMobile.png": "/static/media/EllipseMobile.ea48b08c14ef1e61a651.png",
+    "static/media/Ellipse156.png": "/static/media/Ellipse156.4deb4d6b84c6d123d25c.png",
+    "static/media/front-end developer.svg": "/static/media/front-end developer.7f06cba900ec99b76282d5bcf2638122.svg",
+    "static/media/Group3880.png": "/static/media/Group3880.6d003e47f5d02b46ee3b.png",
+    "static/media/1024px-HTML5_logo_and_wordmark.png": "/static/media/1024px-HTML5_logo_and_wordmark.95367982676909fe829d.png",
+    "static/media/1452px-CSS3_logo_and_wordmark.png": "/static/media/1452px-CSS3_logo_and_wordmark.530e032343615dd43fcb.png",
+    "index.html": "/index.html",
+    "main.e5e0f1e6.css.map": "/static/css/main.e5e0f1e6.css.map",
+    "main.ee0a59fb.js.map": "/static/js/main.ee0a59fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e0f1e6.css",
+    "static/js/main.ee0a59fb.js"
+  ]
+}
